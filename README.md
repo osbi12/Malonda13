@@ -1,2 +1,5 @@
-# Malonda13
-My all Jobs  are here
+# Meu Projecto do final de Curo
+#Ionic
+#TypeScript
+#Mysql
+#HTML 
